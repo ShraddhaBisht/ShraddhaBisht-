@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to My GitHub! 
 I'm glad you're here.
-I'm passionate about growing in **Data Analyst** career and turning raw data into meaningful insights and building solutions that help drive better decisions. This GitHub serves as a portfolio of my learning journey, projects, and practical work in data analytics.
+I'm passionate about growing in **Data Analyst** career and building solutions that help drive better decisions. This GitHub serves as a portfolio of my learning journey, projects, and practical work in data analytics.
 
 ## 📊 What You'll Find Here
 * SQL projects focused on data analysis and business insights
