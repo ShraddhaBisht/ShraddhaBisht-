@@ -30,3 +30,28 @@ You bring the snacks, I’ll bring the code 🍪💻
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 📧 Feel free to explore my projects, provide feedback, or reach out for collaboration opportunities.
 Thank you for visiting my GitHub profile!
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShraddhaBisht&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaBisht&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShraddhaBisht&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShraddhaBisht/ShraddhaBisht/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShraddhaBisht&theme=onedark&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShraddhaBisht&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
